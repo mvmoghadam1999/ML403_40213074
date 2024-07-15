@@ -7,5 +7,5 @@ also we use these methods on famous datasets that you probably work with that so
 also in last mini project we will work on `RL`.
 ## WHAT we do in final project ##
 in this part, we work on a image classification using `deep learning` methods and `CNN` networks. this part is a few different from what we do in mini projects.because we dont cover deep learning methods in this course and mini projects.
-## My email address:##
+## My email address: ##
 #mvmoghadam1999@gmail.com#

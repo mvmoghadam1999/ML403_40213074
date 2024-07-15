@@ -6,3 +6,4 @@ in mini_projects,we cover different methods of machine learning.for example, we 
 also we use these methods on famous datasets that you probably work with that sofare.
 also in last mini project we will work on `RL`.
 ## WHAT we do in final project ##
+in this part, we work on a image classification using `deep learning` methods and `CNN` networks. this part is a few different from what we do in mini projects.because we dont cover deep learning methods in this course and mini projects.
